@@ -66,3 +66,5 @@ fields:
 - type: list
   name: user_groups
   label: user_groups
+pages:
+- content/authors/here-is-a-test.md
