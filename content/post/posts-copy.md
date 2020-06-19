@@ -1,7 +1,7 @@
 +++
 sortable_list = ["Two", "Three", "One"]
 title = "Posts-now one to test"
-view = "3"
+view = "4"
 [header]
 caption = "Caption"
 image = ""
