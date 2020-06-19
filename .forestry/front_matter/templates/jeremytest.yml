@@ -28,3 +28,4 @@ fields:
   description: Text
 pages:
 - content/post/posts-copy.md
+- content/post/test-two.md
