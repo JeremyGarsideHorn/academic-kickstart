@@ -1,4 +1,5 @@
 +++
+sortable_list = ["Two", "Three", "One"]
 title = "Posts-now one to test"
 view = "3"
 [header]

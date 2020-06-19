@@ -26,3 +26,5 @@ fields:
     max: 6
   label: Sortable List
   description: Text
+pages:
+- content/post/posts-copy.md
