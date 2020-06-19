@@ -18,3 +18,11 @@ fields:
   - type: text
     name: image
     label: image
+- name: sortable_list
+  type: list
+  config:
+    use_select: false
+    min: 3
+    max: 6
+  label: Sortable List
+  description: Text
