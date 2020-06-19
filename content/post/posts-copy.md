@@ -1,6 +1,6 @@
 +++
-title = "Posts-(copy)"
-view = 2
+title = "Posts-now one to test"
+view = "3"
 [header]
 caption = "Caption"
 image = ""
