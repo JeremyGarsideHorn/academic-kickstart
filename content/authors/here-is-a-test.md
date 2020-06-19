@@ -8,7 +8,7 @@ role = "sdfsdfsdfsdfsf"
 social = []
 superuser = false
 title = "Here is a test"
-user_groups = []
+user_groups = [""]
 [[education.courses]]
 course = "Music"
 institution = "Cantab"
